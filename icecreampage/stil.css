@@ -1,0 +1,149 @@
+.container {
+    max-width: 100%;
+    background-color: #E9ECEF;
+}
+nav {
+    background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
+    height: 40px;
+    margin-bottom: 30px;
+}
+.cone {
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #7fa99b;
+    
+}
+article {
+    margin-top: 5px;
+}
+.popsicle {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210814/pngtree-blue-purple-simple-gradient-background-image_760572.jpg);
+    font-family: Prompt;
+    font-weight: bolder;
+    color:#d7acd4;
+}
+.mochi {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/background/20210115/pngtree-fantastic-magical-shiny-cloud-color-banner-background-image_524140.jpg);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #6e5773;
+}
+.scoops {
+    background-image: url(https://png.pngtree.com/thumb_back/fh260/back_pic/00/05/33/86562656f65b38e.png);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #77529e;
+
+}
+.sundae {
+    background-image: url(https://media.istockphoto.com/id/1022784052/vector/sky-background-and-pastel-color-eps-10.jpg?s=612x612&w=0&k=20&c=5MrUWJJhLHYacX1gn0dJKlPVSKYHIygHdTWMykDJh1M=);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #d45d79;
+}
+.sandwich {
+    background-image: url(https://static.vecteezy.com/system/resources/previews/005/459/140/non_2x/holographic-fantasy-rainbow-unicorn-background-with-clouds-and-stars-pastel-color-sky-magical-landscape-abstract-fabulous-pattern-cute-candy-wallpaper-vector.jpg);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #dcb5ff;
+}
+.fried {
+    background-image: url(https://img.freepik.com/premium-vector/cloud-background-with-pastel-colour_56745-88.jpg);
+    font-family: Prompt;
+    font-weight: bolder;
+    color: #ff63b5;
+}
+ol {
+    padding-left: 15px;
+}
+ul {
+    padding-left: 10px;
+}
+h1 {
+    text-align: center;
+    font-family: Pacifico;
+    color: #ffb6b9;
+}
+p {
+    font-family: Josefin Sans;
+    font-weight: bolder;
+    color: #d59bf6;
+    text-align: center;
+}
+a {
+    font-family: Pacifico;
+    color: #d7acd4;
+}
+h2{
+    font-family: Josefin Sans;
+    font-weight: bolder;
+    color: #f76b8a;
+    text-align: center;
+}
+footer {
+    margin-top: 30px;
+}
+.grid-item {
+    display: flex;
+    margin: 10px;
+}
+.jumbotron-fluid {
+    background-color: #7fa99b;
+    width: 100px;
+    height: 200px;
+    margin-top: 20px;
+}
+
+.conelist {
+    margin-bottom: -30px;
+    text-align: center;
+    list-style-type:none ;
+}
+h3 {
+    text-align: center;
+}
+.img-fluid {
+    margin-top:20px ;
+}
+
+.containerbg {
+    background-image: url(https://media.istockphoto.com/id/1311561034/vector/seamless-pattern-with-popsicles-for-banners-cards-flyers-social-media-wallpapers-etc.jpg?s=612x612&w=0&k=20&c=_PyC-9lt0gv2XpnB2hf1en4EicRm9rZD2rebs1OY33g=);
+}
+figcaption {
+    font-family: Pacifico;
+    color: #5c5470;
+    font-size: 20px;
+}
+.c1 {
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-pastel-sky-background_23-2148902771.jpg?w=2000);
+}
+img {
+    max-width: 100%; 
+    height: auto;
+}
+.card {
+    display: flex;
+}
+.us {
+    background-image: url(https://wallpapercave.com/wp/wp4470742.jpg);
+}
+.mission {
+    background-image: url(https://marketplace.canva.com/EAD2962NKnQ/2/0/1600w/canva-rainbow-gradient-pink-and-purple-virtual-background-_Tcjok-d9b4.jpg);
+}
+.vision {
+    background-image:url(https://img.freepik.com/free-vector/mint-background-design_23-2150304132.jpg?w=2000) ;
+}
+.coflu {
+    background-image: url(https://images.hdqwalls.com/download/blur-background-6z-1920x1080.jpg);
+}
+.mpflu {
+    background-image: url(https://coolwallpapers.me/picsup/3301444-spots-background-light-blur.jpg);
+}
+
+.coco {
+    background-image: url(https://wallpapercave.com/wp/wp9101827.jpg);
+}
+.container-fluid {
+    height: 1245px;
+}
