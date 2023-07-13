@@ -11,3 +11,9 @@ I DO NOT OWN ANY PHOTOS in the website. I found them online.
 <!-- --------------------------------------------------------------------------------------------------------------------------------------- -->
 
 NOTE: I know that my work needs some improvements, I am working on it to make it better. I am open to any suggestions to change anything. Don't hesitate to reach out. 
+
+![Home](https://www.linkpicture.com/q/anasyf.png)
+![Products1](https://www.linkpicture.com/q/products1.png)
+![Products2](https://www.linkpicture.com/q/pro2_2.png)
+![Products3](https://www.linkpicture.com/q/pro3_1.png)
+![About Us](https://www.linkpicture.com/q/us_3.png)
